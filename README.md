@@ -22,6 +22,8 @@ There are basically 3 helper classes available:
 * RSA - For signing and asymmetric encryption
 * Hybrid - For hybrid encryption with asymmetric keys
 
+See tests for usage samples.
+
 ## Links
 
 * [Java8 Security Algorithms](http://docs.oracle.com/javase/8/docs/technotes/guides/security/StandardNames.html)
